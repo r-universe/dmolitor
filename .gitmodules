@@ -5,3 +5,6 @@
 [submodule "bolasso"]
 	path = bolasso
 	url = https://github.com/dmolitor/bolasso
+[submodule "tugboat"]
+	path = tugboat
+	url = https://github.com/dmolitor/tugboat
