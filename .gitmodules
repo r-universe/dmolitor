@@ -8,6 +8,9 @@
 [submodule "jetty"]
 	path = jetty
 	url = https://github.com/dmolitor/jetty
+[submodule "modeltuning"]
+	path = modeltuning
+	url = https://github.com/dmolitor/modeltuning
 [submodule "tugboat"]
 	path = tugboat
 	url = https://github.com/dmolitor/tugboat
